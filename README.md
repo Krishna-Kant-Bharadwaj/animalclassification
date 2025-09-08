@@ -3,6 +3,12 @@
 An image classification project using transfer learning with *ResNet50* in PyTorch to classify animals into multiple categories with training, validation, testing, and inference support.
 
 ---
+📂 Dataset
+
+Download dataset at: https://drive.google.com/drive/folders/1tCpRwWlnp4jYwTg9dZKssQ-erTaZhFOT?usp=sharing
+Contains 15 class folders (Dog, Cat, Tiger, etc.).
+
+Auto-splits into train (70%) / val (15%) / test (15%) if not already split.
 
 ## 🚀 Features
 - Dataset organization with *train/val/test* split
